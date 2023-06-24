@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RupaliYogananth
-- 👀 I’m interested in developing new things.
+- 👀 I’m interested in developing visually applealing websites.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on remote jobs or freelencing.
 - 📫 How to reach me - yrupali2001@gmail.com
